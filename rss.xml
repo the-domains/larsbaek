@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LarsBaek]]></title>
+        <description><![CDATA[LarsBaek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Dec 2015 17:35:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NORWEGIAN POSTAL SERVICE]]></title>
+            <description><![CDATA[<article><h1>NORWEGIAN POSTAL SERVICE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acd259f21b80909fe601a5943a6ca1f8cfb63975.png"></article>]]></description>
+            <link>undefinednorwegian-postal-service/index.html</link>
+            <guid isPermaLink="false">aaa556fd-741d-4779-b5da-ef47b48968a6</guid>
+            <pubDate>Mon, 21 Dec 2015 17:35:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
