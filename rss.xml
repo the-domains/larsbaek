@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LarsBaek]]></title>
         <description><![CDATA[LarsBaek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/larsbaek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 17:35:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 19:45:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/larsbaek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My example post]]></title>
+            <description><![CDATA[<article><h1>My example post</h1><p>This is a test. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c354b9ed6c308aae15748d07dfbbd232d7928dba.jpg"></article>]]></description>
+            <link>https://thegrid.ai/larsbaek/my-example-post/index.html</link>
+            <guid isPermaLink="false">55abd9ee-f9e4-4d51-b6d5-2198d85ec639</guid>
+            <pubDate>Sat, 09 Jan 2016 19:45:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NORWEGIAN POSTAL SERVICE]]></title>
             <description><![CDATA[<article><h1>NORWEGIAN POSTAL SERVICE</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acd259f21b80909fe601a5943a6ca1f8cfb63975.png"></article>]]></description>
-            <link>undefinednorwegian-postal-service/index.html</link>
+            <link>https://thegrid.ai/larsbaek/norwegian-postal-service/index.html</link>
             <guid isPermaLink="false">aaa556fd-741d-4779-b5da-ef47b48968a6</guid>
             <pubDate>Mon, 21 Dec 2015 17:35:04 GMT</pubDate>
         </item>
